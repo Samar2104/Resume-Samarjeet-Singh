@@ -42,7 +42,6 @@ with open(css_file) as f:
 with open(resume_file, "rb") as pdf_file:
     PDFbyte = pdf_file.read()
 
-st.write("Hello")
 
 
 st.title(NAME)
@@ -135,22 +134,3 @@ st.write(
 businesses to use the tool and leverage its benefits.
 """
 )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
