@@ -13,7 +13,7 @@ from PIL import Image
 
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir  / "style.css"
-resume_file = current_dir  / "Samarjeet Singh CV.pdf"
+resume_file = current_dir  / "Samarjeet Singh Resume.pdf"
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | Samarjeet Singh"
 PAGE_ICON = ":wave:"
