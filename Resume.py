@@ -68,6 +68,7 @@ st.write('\n')
 st.subheader("Education & Qulifications")
 st.write(
     """
+    - ✔️ Diploma in Data Science From Techstack Pvt. Ltd.
 - ✔️ Btech.(CSE) pursuing From Guru Gobind Singh Indraprastha University (GGSIPU):- 8.62 CGPA 
 - ✔️ Std. XII From Central Board For Secondary Education (CBSE) in 2019 :- 72.8%
 - ✔️ Std. X From Indian Certificate of Secondary Education (ICSE) in 2017 :- 81.5 %
