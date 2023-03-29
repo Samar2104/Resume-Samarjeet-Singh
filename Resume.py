@@ -77,7 +77,7 @@ st.write(
 
 
 st.write('\n')
-st.subheader("Hard Skills")
+st.subheader("Skills")
 st.write(
     """
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL
