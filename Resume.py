@@ -13,7 +13,7 @@ from PIL import Image
 
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 css_file = current_dir  / "style.css"
-resume_file = current_dir  / "Samarjeet Singh Cv.pdf"
+resume_file = current_dir  / "Samarjeet Singh Resume.pdf"
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | Samarjeet Singh"
 PAGE_ICON = ":wave:"
@@ -82,7 +82,7 @@ st.write(
     """
 - 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL
 - 📊 Data Visulization: Tableu, MS Excel
-- 📚 Modeling: Logistic regression, linear regression, Random Forest,SVM
+- 📚 Modeling: Logistic regression, linear regression, Random Forest, SVM, PCA, K-means Clustering, Time Series
 - 🗄️ Databases:MySQL
 """
 )
@@ -97,7 +97,7 @@ st.write("---")
 
 st.write("🚧", "**Intern | Analyst**")
 st.write("**Orangus Pvt. Ltd.**")
-st.write("12/2022 - 02/2023")
+st.write("02/2023 - Till Now")
 st.write(
     """
 - ► Used Random Forest classifer to predict whether the customer will be churn or not 
