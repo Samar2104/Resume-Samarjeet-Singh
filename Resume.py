@@ -53,7 +53,7 @@ st.download_button(
         mime="application/octet-stream",
     )
 st.write("📫", EMAIL)
-st.write("8979328098")
+st.write("- ✔️ 8979328098")
 
 
 st.write('\n')
