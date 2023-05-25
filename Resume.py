@@ -30,7 +30,8 @@ SOCIAL_MEDIA = {
     "GitHub": "https://github.com/Samar2104",
 }
 PROJECTS = {
-    "Revenue Grid Prediction App": "https://samar2104-revenue-grid-predictor-app-final-deploy-nkdgbr.streamlit.app"
+    "Revenue Grid Prediction App": "https://samar2104-revenue-grid-predictor-app-final-deploy-nkdgbr.streamlit.app",
+    "Sales Forcasting Using Time Series": "https://github.com/Samar2104/Time-Series-Analysis-for-Sales-Forecasting-for-Super-Store"
 }
 
 
