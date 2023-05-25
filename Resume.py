@@ -30,10 +30,11 @@ SOCIAL_MEDIA = {
     "GitHub": "https://github.com/Samar2104",
 }
 PROJECTS = {
-    "Revenue Grid Prediction App": "https://samar2104-revenue-grid-predictor-app-final-deploy-nkdgbr.streamlit.app",
+    "Revenue Grid Prediction App": "https://samar2104-revenue-grid-predictor-app-final-deploy-nkdgbr.streamlit.app"
+}
+PROJECT = { 
     "Sales Forcasting Using Time Series": "https://github.com/Samar2104/Time-Series-Analysis-for-Sales-Forecasting-for-Super-Store"
 }
-
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
@@ -136,3 +137,23 @@ st.write(
 businesses to use the tool and leverage its benefits.
 """
 )
+
+
+for project, link in PROJECT.items():
+    st.write(f"[{project}]({link})")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
