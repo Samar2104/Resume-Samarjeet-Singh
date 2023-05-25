@@ -142,6 +142,13 @@ businesses to use the tool and leverage its benefits.
 for project, link in PROJECT.items():
     st.write(f"[{project}]({link})")
 
+st.write(
+    """
+- ► The aim of this project is to develop a comprehensive time series analysis project for sales forecasting in a super store.  
+- ► Utilized historical sales data to identify patterns, trends, and seasonality factors affecting sales.
+- ► Applied advanced analytical techniques to develop a robust forecasting model.
+"""
+)
 
 
 
