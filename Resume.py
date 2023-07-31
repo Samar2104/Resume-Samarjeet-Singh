@@ -99,7 +99,7 @@ st.write("---")
 
 st.write("🚧", "**Intern | Analyst**")
 st.write("**Orangus Pvt. Ltd.**")
-st.write("02/2023 - Till Now")
+st.write("02/2023 - 07/2023")
 st.write(
     """
 - ► Used Random Forest classifer to predict whether the customer will be churn or not 
