@@ -82,9 +82,9 @@ st.write('\n')
 st.subheader("Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL
+- 👩‍💻 Programming: Python (Scikit-learn, Pandas, TensorFlow), SQL
 - 📊 Data Visulization: Tableu, MS Excel
-- 📚 Modeling: Logistic regression, linear regression, Random Forest, SVM, PCA, K-means Clustering, Time Series
+- 📚 Modeling: Logistic regression, linear regression, Random Forest, SVM, PCA, K-means Clustering, Time Series, Neural Networks
 - 🗄️ Databases:MySQL
 """
 )
